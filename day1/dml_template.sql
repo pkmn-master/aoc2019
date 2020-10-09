@@ -1,0 +1,1 @@
+INSERT INTO dbo.Day1 (Mass) VALUES ($VALUE$);
